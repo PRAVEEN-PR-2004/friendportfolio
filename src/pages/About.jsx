@@ -21,14 +21,11 @@ const About = () => {
           <div className="w-full md:w-2/3 md:pl-8">
             <h1 className="mb-4 text-3xl font-bold text-gray-800">About Me</h1>
             <p className="leading-relaxed text-gray-600">
-              Hi! I'm Praveen, a passionate frontend developer & freelancer. I
-              love frontend development and Java programming, and I enjoy
-              crafting captivating digital experiences with a focus on clean
-              design, seamless functionality, and user-centric development. With
-              expertise in React, Tailwind CSS, and various other technologies,
-              I also know data structures and algorithms (DSA) in Java and am a
-              MERN stack developer, where I leverage MongoDB, Express.js, React,
-              and Node.js to build dynamic web applications.
+              Hi! I'm Prabha M, a student at Saranathan College of Engineering,
+              pursuing a degree in AI & Data Science. I have a strong foundation
+              in Python and machine learning, with additional expertise in Excel
+              and Power BI. I am passionate about exploring new technologies and
+              applying my knowledge to solve real-world problems.
             </p>
             <p className="mt-4 leading-relaxed text-gray-600">
               I have solved 170+ problems on LeetCode in Java and have completed
