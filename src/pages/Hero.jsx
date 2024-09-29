@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="relative z-10 flex flex-col items-center justify-center min-h-[95vh] md:min-h-screen px-4">
         <h1 className="mb-6 text-4xl font-bold text-center text-white md:mb-9 md:text-7xl">
           Hello,
-          <br /> I'm PRABHA M
+          <br /> 👋I'm PRABHA M
         </h1>
         <p className="max-w-2xl mb-8 text-sm text-center text-white md:text-xl">
           A passionate AI & Data Science student at Saranathan College of
