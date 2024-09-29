@@ -1,6 +1,9 @@
 import { TbBrandGithubFilled } from "react-icons/tb";
+// import { H/ } from "react-icons/tb";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaHackerrank } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
+import { SiHackerrank } from "react-icons/si";
 import ParticlesBg from "particles-bg";
 
 const Hero = () => {
@@ -10,20 +13,20 @@ const Hero = () => {
       <div className="relative z-10 flex flex-col items-center justify-center min-h-[95vh] md:min-h-screen px-4">
         <h1 className="mb-6 text-4xl font-bold text-center text-white md:mb-9 md:text-7xl">
           Hello,
-          <br /> I'm PRAVEEN PR
+          <br /> I'm PRABHA M
         </h1>
         <p className="max-w-2xl mb-8 text-sm text-center text-white md:text-xl">
-          A driven computer science student pursuing a bachelor's degree,
-          skilled in React.js frontend development, proficient in Java
-          programming, with experience in database management, and a
-          foundational understanding of backend development.
+          A passionate AI & Data Science student at Saranathan College of
+          Engineering, skilled in Python and Machine Learning, proficient in
+          Excel and Power BI, with a strong interest in leveraging technology to
+          solve real-world problems.
         </p>
 
         <div className="flex space-x-6">
           {/* GitHub Icon */}
           <a
-            href="https://github.com/PRAVEEN-PR-2004"
-            className="text-3xl font-extrabold text-blue-600"
+            href="https://github.com/PRABHA-MURUGANANDHAM"
+            className="text-3xl font-extrabold text-black"
           >
             <TbBrandGithubFilled
               size={40}
@@ -33,7 +36,7 @@ const Hero = () => {
 
           {/* LinkedIn Icon */}
           <a
-            href="https://www.linkedin.com/in/praveen-p-r-15-09-2004-ttp/"
+            href="https://www.linkedin.com/in/prabha-m-62ba57268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             className="text-3xl font-extrabold text-blue-500"
           >
             <FaLinkedinIn
@@ -44,12 +47,12 @@ const Hero = () => {
 
           {/* LeetCode Icon */}
           <a
-            href="https://leetcode.com/u/praveen2004ttp/"
-            className="text-3xl font-extrabold text-orange-600"
+            href="https://www.hackerrank.com/profile/prabhamuruga2020"
+            className="text-3xl font-extrabold text-green-600"
           >
-            <SiLeetcode
+            <FaHackerrank
               size={40}
-              className="transition-transform duration-300 hover:scale-110 hover:text-orange-700"
+              className="transition-transform duration-300 hover:scale-110 hover:text-green-900"
             />
           </a>
         </div>

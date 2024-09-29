@@ -1,6 +1,6 @@
 import React from "react";
 
-import { ClimbingBoxLoader } from "react-spinners";
+import { HashLoader } from "react-spinners";
 const Loader = () => {
   return (
     <div
@@ -11,7 +11,7 @@ const Loader = () => {
         alignItems: "center",
       }}
     >
-      <ClimbingBoxLoader color="#a8e5ab" size={25} />
+      <HashLoader color="#0ea5e9" size={75} />
     </div>
   );
 };

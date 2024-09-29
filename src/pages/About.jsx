@@ -1,6 +1,6 @@
 import React from "react";
-import myimg from "../assets/portfoliome.jpg";
-import resume from "../assets/Professional CV Resume (2) (1).pdf";
+import myimg from "../assets/icon-5887113_1280.webp";
+import resume from "../assets/Resume-friend.pdf";
 import { Slide } from "react-awesome-reveal";
 
 const About = () => {
@@ -28,25 +28,24 @@ const About = () => {
               applying my knowledge to solve real-world problems.
             </p>
             <p className="mt-4 leading-relaxed text-gray-600">
-              I have solved 170+ problems on LeetCode in Java and have completed
-              many projects related to web development. I believe in continuous
-              growth, both as a developer and an individual, and strive to
-              enhance my skills and knowledge every day.
+              With a CGPA of 8.2, I am committed to continuous learning and
+              improvement. I am excited about leveraging my skills in AI and
+              data science to make a meaningful impact in the industry.
             </p>
             <p className="pt-4 font-semibold leading-relaxed text-gray-600">
-              CONTACT: 9597412160
+              CONTACT: 9566696788
             </p>
             <p className="pt-1 font-semibold leading-relaxed text-gray-600">
               MAIL: praveen2004ttp@gmail.com
             </p>
             <p className="pb-10 mt-4 leading-relaxed text-gray-600">
-              Let's create something amazing together!
+              Let's collaborate and create something amazing together!
             </p>
 
             {/* Download Resume Button */}
             <button
               type="submit"
-              class="flex gap-2 mx-auto shadow-md text-lg bg-gray-50 backdrop-blur-md lg:font-semibold isolation-auto border-gray-50 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-indigo-900 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-2 overflow-hidden border-2 rounded-full group"
+              class="flex gap-2 mx-auto shadow-md text-lg bg-gray-50 backdrop-blur-md lg:font-semibold isolation-auto border-gray-50 before:absolute before:w-full before:transition-all before:duration-700 before:hover:w-full before:-left-full before:hover:left-0 before:rounded-full before:bg-sky-400 hover:text-gray-50 before:-z-10 before:aspect-square before:hover:scale-150 before:hover:duration-700 relative z-10 px-4 py-2 overflow-hidden border-2 rounded-full group"
             >
               <a
                 href={resume} // Replace with your resume's file path

@@ -9,6 +9,7 @@ import About from "./pages/About";
 import Skills from "./pages/Skills";
 import Projects from "./pages/Projects";
 import Footer from "./pages/Footer";
+import Education from "./pages/Education";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -35,6 +36,7 @@ function App() {
           </section>
           <section id="skills">
             <Skills />
+            <Education />
           </section>
           <section id="projects">
             <Projects />
