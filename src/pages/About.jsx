@@ -36,7 +36,7 @@ const About = () => {
               CONTACT: 9566696788
             </p>
             <p className="pt-1 font-semibold leading-relaxed text-gray-600">
-              MAIL: praveen2004ttp@gmail.com
+              MAIL: prabhamuruga2020@gmail.com
             </p>
             <p className="pb-10 mt-4 leading-relaxed text-gray-600">
               Let's collaborate and create something amazing together!

@@ -5,7 +5,7 @@ import project4 from "../assets/friendproject4.jpg"; // Replace with actual imag
 
 const ProjectData = [
   {
-    imgsrc: project1,
+    imgsrc: project2,
     title: "Plant Disease Detection using Machine Learning",
     objective:
       "Detect plant diseases by analyzing leaf images to assist in early identification and prevention.",
@@ -13,7 +13,7 @@ const ProjectData = [
     tools: "Python, Streamlit, PyCharm, pandas, TensorFlow/Keras, scikit-learn",
   },
   {
-    imgsrc: project2,
+    imgsrc: project1,
     title: "Credit Card Fraud Detection using Machine Learning",
     objective:
       "Detect fraudulent credit card transactions by analyzing transaction patterns.",
