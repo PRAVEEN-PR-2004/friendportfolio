@@ -35,7 +35,9 @@ const Education = () => {
                 <p className="text-xs text-gray-500 md:text-lg">
                   Jun 2020 - Jun 2022
                 </p>
-                <p className="text-xs text-gray-600 md:text-lg">Grade: 91.2%</p>
+                <p className="text-xs text-gray-600 md:text-lg">
+                  Grade: 83.33%
+                </p>
               </div>
               <div>
                 <h3 className="text-sm font-semibold md:text-2xl">
@@ -47,7 +49,7 @@ const Education = () => {
                 <p className="text-xs text-gray-500 md:text-lg">
                   Jun 2008 - Jun 2020
                 </p>
-                <p className="text-xs text-gray-600 md:text-lg">Grade: 96.8%</p>
+                <p className="text-xs text-gray-600 md:text-lg">Grade: 79.8%</p>
               </div>
             </div>
           </div>
